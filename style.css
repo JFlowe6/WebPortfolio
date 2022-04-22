@@ -1,9 +1,9 @@
-h1{
+#main{
+    background-color: aquamarine;
+}
+#h1{
     font-size: 80px;
     font-family: sans-serif;
     color: #000000;
     text-align: center;
-}
-main{
-    background-color: aquamarine;
 }
